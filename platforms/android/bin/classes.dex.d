@@ -1,0 +1,23 @@
+/home/adhira/Pravin/PhoneGap/Projects/travelling/platforms/android/bin/classes.dex : \
+/home/adhira/Pravin/PhoneGap/Projects/travelling/platforms/android/bin/classes/org/apache/cordova/whitelist/WhitelistPlugin$1.class \
+/home/adhira/Pravin/PhoneGap/Projects/travelling/platforms/android/bin/classes/org/apache/cordova/whitelist/WhitelistPlugin.class \
+/home/adhira/Pravin/PhoneGap/Projects/travelling/platforms/android/bin/classes/org/apache/cordova/whitelist/WhitelistPlugin$CustomConfigXmlParser.class \
+/home/adhira/Pravin/PhoneGap/Projects/travelling/platforms/android/bin/classes/org/apache/cordova/splashscreen/SplashScreen$3.class \
+/home/adhira/Pravin/PhoneGap/Projects/travelling/platforms/android/bin/classes/org/apache/cordova/splashscreen/SplashScreen$5.class \
+/home/adhira/Pravin/PhoneGap/Projects/travelling/platforms/android/bin/classes/org/apache/cordova/splashscreen/SplashScreen$6$1.class \
+/home/adhira/Pravin/PhoneGap/Projects/travelling/platforms/android/bin/classes/org/apache/cordova/splashscreen/SplashScreen.class \
+/home/adhira/Pravin/PhoneGap/Projects/travelling/platforms/android/bin/classes/org/apache/cordova/splashscreen/SplashScreen$2.class \
+/home/adhira/Pravin/PhoneGap/Projects/travelling/platforms/android/bin/classes/org/apache/cordova/splashscreen/SplashScreen$1.class \
+/home/adhira/Pravin/PhoneGap/Projects/travelling/platforms/android/bin/classes/org/apache/cordova/splashscreen/SplashScreen$7.class \
+/home/adhira/Pravin/PhoneGap/Projects/travelling/platforms/android/bin/classes/org/apache/cordova/splashscreen/SplashScreen$5$1.class \
+/home/adhira/Pravin/PhoneGap/Projects/travelling/platforms/android/bin/classes/org/apache/cordova/splashscreen/SplashScreen$4$1.class \
+/home/adhira/Pravin/PhoneGap/Projects/travelling/platforms/android/bin/classes/org/apache/cordova/splashscreen/SplashScreen$6.class \
+/home/adhira/Pravin/PhoneGap/Projects/travelling/platforms/android/bin/classes/org/apache/cordova/splashscreen/SplashScreen$4.class \
+/home/adhira/Pravin/PhoneGap/Projects/travelling/platforms/android/bin/classes/com/ind/travelling/R.class \
+/home/adhira/Pravin/PhoneGap/Projects/travelling/platforms/android/bin/classes/com/ind/travelling/R$attr.class \
+/home/adhira/Pravin/PhoneGap/Projects/travelling/platforms/android/bin/classes/com/ind/travelling/R$drawable.class \
+/home/adhira/Pravin/PhoneGap/Projects/travelling/platforms/android/bin/classes/com/ind/travelling/BuildConfig.class \
+/home/adhira/Pravin/PhoneGap/Projects/travelling/platforms/android/bin/classes/com/ind/travelling/R$string.class \
+/home/adhira/Pravin/PhoneGap/Projects/travelling/platforms/android/bin/classes/com/ind/travelling/R$xml.class \
+/home/adhira/Pravin/PhoneGap/Projects/travelling/platforms/android/bin/classes/com/ind/travelling/MainActivity.class \
+/home/adhira/Pravin/PhoneGap/Projects/travelling/platforms/android/bin/dexedLibs/classes-29bc4e2cde07996992f18edbcaefdf6a.jar \
